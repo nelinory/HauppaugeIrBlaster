@@ -25,7 +25,7 @@ namespace HauppaugeIrBlaster.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Comes Here")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Hauppauge Media Center Service")]
         public string HauppaugeRecordingServiceName {
             get {
                 return ((string)(this["HauppaugeRecordingServiceName"]));
