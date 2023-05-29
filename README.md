@@ -1,4 +1,8 @@
 # HauppaugeIrBlaster
+![GitHub release](https://img.shields.io/github/v/release/nelinory/HauppaugeIrBlaster)
+![GitHub downloads](https://img.shields.io/github/downloads/nelinory/HauppaugeIrBlaster/total)
+![GitHub issues](https://img.shields.io/github/issues/nelinory/HauppaugeIrBlaster)
+![Github license](https://img.shields.io/github/license/nelinory/HauppaugeIrBlaster)
 
 HauppaugeIrBlaster is an application that uses Hauppauge ir blaster to control a satellite receiver connected to Windows Media Center
 
